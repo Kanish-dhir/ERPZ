@@ -79,7 +79,9 @@ This will delete all present attendance data and create new attendance objects f
 
 ![alt text](https://imgur.com/isL9cjz.png)
 
-![alt text](https://imgur.com/5pzl7m3.png)
+![alt text](https://imgur.com/5pzl7m3.![Screenshot (472)](https://github.com/Kanish-dhir/ERPZ/assets/105987397/5ffaa5d9-0ab5-477a-a54b-40a7c46364a1)
+![Screenshot (473)](https://github.com/Kanish-dhir/ERPZ/assets/105987397/599d7970-0d94-40d8-b4b7-3ff44336e0f6)
+png)
 
 ![alt text](https://imgur.com/7zWhHZx.png)
 
@@ -88,6 +90,7 @@ This will delete all present attendance data and create new attendance objects f
 ![alt text](https://imgur.com/NZqU268.png)
 
 ### Admin Page
+
 
 ![alt text](https://imgur.com/sDvDc9N.png)
 
